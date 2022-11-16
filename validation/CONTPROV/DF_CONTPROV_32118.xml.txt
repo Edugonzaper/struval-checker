@@ -1,0 +1,31 @@
+
+       ****************************
+      *                          *
+     *    StruVal V3 client     *
+    *                          *
+   ****************************
+
+
+
+
+Start time: 13:00:25,61
+Preparing client...
+Using http compression!
+{returnCode=0, errorsFound=0, moreError=No more error, version=8.4.19, dsdVersion=ESC01:Sociedades Mercantiles de Andalucía:1.0}
+Validation result: {returnCode=0, errorsFound=0, moreError=No more error, version=8.4.19, dsdVersion=ESC01:Sociedades Mercantiles de Andalucía:1.0}
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+STRUCTURAL VALIDATION REPORT
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0 Error(s) found 
+
+Errors per type:
+
+
+SDMX Converter version: 8.4.19
+Generated on: 03/11/2022 13:00:28
+Structure information: ESC01:Sociedades Mercantiles de Andalucía:1.0
+
+
+
+End time: 13:00:28,03

@@ -1,0 +1,31 @@
+
+       ****************************
+      *                          *
+     *    StruVal V3 client     *
+    *                          *
+   ****************************
+
+
+
+
+Start time: 12:59:38,79
+Preparing client...
+Using http compression!
+{returnCode=0, errorsFound=0, moreError=No more error, version=8.4.19, dsdVersion=ESC01:Encuesta de ocupación en apartamentos turísticos:1.0}
+Validation result: {returnCode=0, errorsFound=0, moreError=No more error, version=8.4.19, dsdVersion=ESC01:Encuesta de ocupación en apartamentos turísticos:1.0}
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+STRUCTURAL VALIDATION REPORT
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0 Error(s) found 
+
+Errors per type:
+
+
+SDMX Converter version: 8.4.19
+Generated on: 03/11/2022 12:59:40
+Structure information: ESC01:Encuesta de ocupación en apartamentos turísticos:1.0
+
+
+
+End time: 12:59:40,74
